@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" aria-hidden="true">
+  <!-- Subtle green circular background (viewBox 32×32: center 16,16 r=15) -->
+  <circle cx="16" cy="16" r="15" fill="#16a34a" opacity="0.12"/>
+  <!-- Lightning bolt (scaled to 32×32 viewBox) -->
+  <path
+    d="M18 9L12 16h4l-2 7 6-8h-4L18 9z"
+    fill="#16a34a"
+    stroke="#15803d"
+    stroke-width="0.6"
+    stroke-linejoin="round"
+  />
+</svg>
