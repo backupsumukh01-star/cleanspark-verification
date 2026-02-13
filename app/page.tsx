@@ -1,6 +1,6 @@
 import TokenLogo from '@/components/TokenLogo'
 
-const CONTRACT_ADDRESS = '0x9C479B1441fdf19CA8F75a74607a2687676674A0'
+const CONTRACT_ADDRESS = '0x6bBc4e5eA82de0c0bcD452E6f270B3452da739De'
 
 export default function Home() {
   return (
