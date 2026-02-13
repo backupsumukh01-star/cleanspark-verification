@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'CleanSpark Mining (CLSM)',
+  title: '  Clean Spark (CSPK)',
   description:
-    'CleanSpark Mining (CLSM) is a BEP-20 utility token deployed on BNB Smart Chain, designed for simple wallet-to-wallet transfers with a fixed supply.',
+    '  Clean Spark (CSPK) is a BEP-20 utility token deployed on BNB Smart Chain, designed for simple wallet-to-wallet transfers with a fixed supply.',
   icons: {
     icon: '/logo.svg',
   },
