@@ -10,16 +10,16 @@ export default function Home() {
         <div className="mx-auto max-w-2xl px-6 py-8 text-center">
           <TokenLogo className="mx-auto h-20 w-20" />
           <h1 className="mt-4 text-2xl font-semibold text-gray-900 sm:text-3xl">
-            CleanSpark Mining
+            Clean Spark
           </h1>
-          <p className="mt-1 text-lg font-medium text-accent">CLSM</p>
+          <p className="mt-1 text-lg font-medium text-accent">CSPK</p>
         </div>
       </header>
 
       {/* Description */}
       <section className="mx-auto max-w-2xl px-6 py-10">
         <p className="text-center text-gray-600 leading-relaxed">
-          CleanSpark Mining (CLSM) is a BEP-20 utility token deployed on BNB
+          Clean Spark (CSPK) is a BEP-20 utility token deployed on BNB
           Smart Chain, designed for simple wallet-to-wallet transfers with a
           fixed supply.
         </p>
@@ -34,11 +34,11 @@ export default function Home() {
           <dl className="space-y-3 text-sm">
             <div className="flex justify-between gap-4 border-b border-gray-200 pb-2">
               <dt className="text-gray-500">Name</dt>
-              <dd className="font-medium text-gray-900">CleanSpark Mining</dd>
+              <dd className="font-medium text-gray-900">Clean Spark</dd>
             </div>
             <div className="flex justify-between gap-4 border-b border-gray-200 pb-2">
               <dt className="text-gray-500">Symbol</dt>
-              <dd className="font-medium text-gray-900">CLSM</dd>
+              <dd className="font-medium text-gray-900">CSPK</dd>
             </div>
             <div className="flex justify-between gap-4 border-b border-gray-200 pb-2">
               <dt className="text-gray-500">Network</dt>
@@ -46,7 +46,7 @@ export default function Home() {
             </div>
             <div className="flex justify-between gap-4 border-b border-gray-200 pb-2">
               <dt className="text-gray-500">Total Supply</dt>
-              <dd className="font-medium text-gray-900">1,000,000,000 CLSM</dd>
+              <dd className="font-medium text-gray-900">1,000,000,000 CSPK</dd>
             </div>
             <div className="flex flex-col gap-1 pt-1">
               <dt className="text-gray-500">Contract Address</dt>
@@ -69,7 +69,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="mt-auto border-t border-gray-200 bg-white py-6">
         <p className="text-center text-sm text-gray-500">
-          © 2026 CleanSpark Mining
+          © 2026 Clean Spark
         </p>
       </footer>
     </main>
